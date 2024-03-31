@@ -14,7 +14,7 @@
 
 ## Usage
 
-These projects were built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). They also use [Font Awesome](https://fontawesome.com/) for icons. They were created using the [BS5 Simple Starter](https://github.com/manjeetdeveloper)
+These projects were built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). They also use [Font Awesome](https://fontawesome.com/) for icons. They were created using the 
 
 To customize any of these websites, you need to install [Node.js](https://nodejs.org/) and run the following in the project folder:
 
